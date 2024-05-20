@@ -1,4 +1,4 @@
-# Neuro-AI-fMRI-Encoder-Taskonomy
+# Brain Encoding Models using Taskonomy
 
 ## Background and Objectives
 This project compares encoding models using Taskonomy. The assignment consists of two main problems, each with specific sub-tasks:
